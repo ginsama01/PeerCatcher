@@ -16,7 +16,7 @@ Requirements for the software and other tools to build, test and push
 
 ## Dataset
 
-Dataset for experiment is available on [KAGGLE](https://www.kaggle.com/datasets/crys2508/p2p-network-flows-for-detecting-p2p-botnet)
+Dataset for experiment is available on [KAGGLE](https://www.kaggle.com/datasets/crys2508/p2p-botnet-detection-dataset)
 
 ### Sample flows input
 
